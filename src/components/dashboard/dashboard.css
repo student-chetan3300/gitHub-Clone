@@ -1,0 +1,17 @@
+
+#dashboard {
+  display: flex;
+  width: 1080px;
+  justify-content: space-between;
+
+}
+
+h2{
+  margin-top: 20px;
+}
+
+aside{
+color: white;
+margin-top: 10px;
+font-size: medium;
+}
